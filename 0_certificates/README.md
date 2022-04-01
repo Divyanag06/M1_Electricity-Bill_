@@ -1,3 +1,3 @@
 sololearn
 NDG Linux
-First day Github Screenshot
+First day Github - screenshots
